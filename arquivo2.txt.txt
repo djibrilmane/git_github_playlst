@@ -2,4 +2,4 @@ o video de branch 3
 commit com branch 4
 alterar o codigo para gerar conflito
 resolvi o conflito e adicionei mais coisas
-
+alteração de conflito feito para main
